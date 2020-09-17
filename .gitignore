@@ -1,0 +1,6 @@
+test.py
+*.log
+*.wav
+*.mp4
+*.ini
+.vscode/
